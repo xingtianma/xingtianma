@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm a current senior at Northeastern University studying Computer Science (Software Concentration) 
+and I have a passion for creating projects that people actually use. Whether it's a second saved
+everyday, or a minute, or an hour, I wish to build products that make people's lives easier.
 <!--
 **xingtianma/xingtianma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
