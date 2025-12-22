@@ -1,12 +1,12 @@
-## Hi!
+## Hi, I'm Kevin!
 
-My name is Xingtian, but feel free to call me Kevin!
+I'm a current senior at Northeastern University studying Computer Science (Software), and
+looking to graduate in 2026. I've previously worked at Northeastern University ITS as a Junior ServiceNow 
+Software Developer and at AA Technology as a Software Engineer Intern.
 
-I'm a current senior at Northeastern University studying Computer Science (Software Concentration) 
-and I have a passion for creating projects that people actually use. Whether it's a second saved
+I have a strong passion for creating projects that people actually use. Whether it's a second saved
 everyday, or a minute, or an hour, I wish to build products that make people's lives easier.
 
-If you have any questions, feel free to contact me at ma.xing@northeastern.edu
 <!--
 **xingtianma/xingtianma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
