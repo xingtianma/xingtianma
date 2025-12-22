@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there :D
 
 I'm a current senior at Northeastern University studying Computer Science (Software Concentration) 
 and I have a passion for creating projects that people actually use. Whether it's a second saved
