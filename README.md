@@ -1,6 +1,6 @@
-## Hi :D
+## Hi!
 
-My name is Xingtian, but feel free to call me Kevin.
+My name is Xingtian, but feel free to call me Kevin!
 
 I'm a current senior at Northeastern University studying Computer Science (Software Concentration) 
 and I have a passion for creating projects that people actually use. Whether it's a second saved
