@@ -9,10 +9,10 @@ Fullstack Developer Intern @ D1CE
 - 📊 **[Riot Match](link)** — Script to find shared League of Legends games between two players via Riot API
 
 ## Work Experience
-- Fullstack Developer Intern @ D1CE (Jan 2026 – Present)
-- Junior ServiceNow Developer @ NortheasternITS (Jan – June 2025)
-- Fullstack Developer Intern @ OASIS (Sep – Dec 2023)
-- Software Engineer Intern @ AA Technology (May – Sep 2023)
+- Fullstack Developer Intern @ **D1CE** (Jan 2026 – Present)
+- Junior ServiceNow Developer @ **NortheasternITS** (Jan – June 2025)
+- Fullstack Developer Intern @ **OASIS** (Sep – Dec 2023)
+- Software Engineer Intern @ **AA Technology** (May – Sep 2023)
 
 ## Connect With Me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-xingtianma-blue?style=flat&logo=linkedin)](https://linkedin.com/in/xingtianma)
