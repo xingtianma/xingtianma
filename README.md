@@ -1,7 +1,7 @@
 # Hi, I'm Kevin! 👋
 
 CS + Economics Minor @ Northeastern University '26 <br>
-Fullstack Developer Intern @ D1CE
+Looking for new grad positions!
 
 ## Currently Building
 - 🎮 **[Minecord](https://github.com/xingtianma/minecord)** — Discord bot that provisions and manages Minecraft servers on demand via Proxmox API + Docker
@@ -9,10 +9,11 @@ Fullstack Developer Intern @ D1CE
 - 📊 **[Riot Match](https://github.com/xingtianma/riotmatch)** — Script to find shared League of Legends games between two players via Riot API
 
 ## Work Experience
-- Fullstack Developer Intern @ **D1CE** (Jan 2026 – Present)
+- Software Engineer Intern @ **Division One Network** (July 2026 - Oct. 2026)
+- Fullstack Developer Intern @ **D1CE** (Jan 2026 – July 2026)
 - Junior ServiceNow Developer @ **NortheasternITS** (Jan – June 2025)
-- Fullstack Developer Intern @ **OASIS** (Sep – Dec 2023)
-- Software Engineer Intern @ **AA Technology** (May – Sep 2023)
+- Fullstack Developer Intern @ **OASIS** (Sep. – Dec. 2023)
+- Software Engineer Intern @ **AA Technology** (May – Sep. 2023)
 
 ## Connect With Me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-xingtianma-blue?style=flat&logo=linkedin)](https://linkedin.com/in/xingtianma)
